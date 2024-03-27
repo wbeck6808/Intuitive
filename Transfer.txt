@@ -6,3 +6,54 @@ MySQL
 PhpMyAdmin
 
 https://Intuitive.zoom.us/j/92255536013?pwd=SElqWjZwMFZPelZ5aktpQy9xeDlZUT09
+
+Task 9 Exercise (Warren Beck)
+
+LMS_TRAINING_ID
+ILT REG_ISU-ADMIN_SV
+
+REG_PEPS_ADMIN_WWB  
+
+Training Task 9
+
+ILT_PEPS_ADMIN_WWB
+
+LMS TRAINEES Program to be Assigned
+
+
+ILT PROGRAM NAME = REG_PEPS_ADMIN_WWB
+
+
+ILT NAME = Task 9 Exercise (Warren Beck)
+
+LMS_TRAINING_ID
+
+
+Assignment Should be done by Department Heads not Manager
+LCR should not be created for creation of assignments
+Too much time approval task.
+The problem of the redlne revisions
+Is this neccessary for my role
+Is the change signicant.
+Assignment Profiles for Best Practices 2781380
+
+Variations in Assignment Profiles
+
+
+Deactivate curriculum ___ in order to remove assignments from users, as well remove association from assignment profile "" and libraries in ISU.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
